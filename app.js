@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3000;
+const port = 6060;
 
 // Serve static files from the "views" directory
 app.use(express.static('views'));
